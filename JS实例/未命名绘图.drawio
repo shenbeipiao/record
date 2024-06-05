@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-05T07:29:43.610Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="QWL7H8OsEEJ-dlAbvNh8" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-05T07:33:22.939Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="lO_2m1-x4_0w-LpirkgH" version="24.4.13" type="github">
   <diagram name="第 1 页" id="d5NoUXwyiJWllpcq43qh">
     <mxGraphModel dx="2390" dy="3638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -307,11 +307,17 @@
         <mxCell id="xpNhdHFbhx5iCEHr1dCp-122" value="&lt;font style=&quot;font-size: 27px;&quot;&gt;打开已有项目&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4680" y="90" width="540" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xpNhdHFbhx5iCEHr1dCp-123" value="&lt;span style=&quot;font-size: 27px;&quot;&gt;读取操作账号文件信息&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xpNhdHFbhx5iCEHr1dCp-123" value="&lt;span style=&quot;font-size: 27px;&quot;&gt;读取 账号文件信息&amp;nbsp; 本地/第三方平台/本平台&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3760" y="10" width="1460" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xpNhdHFbhx5iCEHr1dCp-124" value="&lt;span style=&quot;font-size: 27px;&quot;&gt;完成操作&amp;nbsp; 进入编辑页面&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3760" y="-80" width="1460" height="60" as="geometry" />
+          <mxGeometry x="3750" y="-340" width="1460" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xpNhdHFbhx5iCEHr1dCp-125" value="&lt;font style=&quot;font-size: 27px;&quot;&gt;新建项目文件&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3760" y="-80" width="540" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xpNhdHFbhx5iCEHr1dCp-126" value="&lt;span style=&quot;font-size: 27px;&quot;&gt;打开选取文件&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4680" y="-70" width="540" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
